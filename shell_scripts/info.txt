@@ -1,0 +1,3 @@
+https://{capstone-yourgroup}.veevavault.com/api/v7.0/auth
+username@calpoly-capstone.com
+password
